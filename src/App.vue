@@ -1,9 +1,27 @@
 <template>
- <h1>hello world</h1>
+  <div id="app">
+    <router-view />
+  </div>
 </template>
 
-<script setup>
+<script>
+export default {
+  name: 'App'
+}
 </script>
-<style scoped>
 
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+#app {
+  min-height: 100vh;
+}
 </style>
