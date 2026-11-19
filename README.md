@@ -1,29 +1,36 @@
-# SongRequest
+# Wedding Song Requester
 
-This template should help get you started developing with Vue 3 in Vite.
+A web application designed to streamline song requests
+for wedding DJs and private events.
 
-## Recommended IDE Setup
+## Project Overview
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+As a professional DJ, I wanted to explore how software
+could improve the song request experience for both
+guests and DJs during live events.
 
-## Customize configuration
+This project was developed using AI-assisted development
+tools to accelerate prototyping and implementation.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Technologies
 
-## Project Setup
+- Vue 3
+- JavaScript
+- Vite
 
-```sh
-npm install
-```
+## Getting Started
 
-### Compile and Hot-Reload for Development
+Install dependencies:
 
-```sh
-npm run dev
-```
+    npm install
 
-### Compile and Minify for Production
+Start the development server:
 
-```sh
-npm run build
-```
+    npm run dev
+
+## Future Improvements
+
+- Improve the mobile user experience
+- Expand song request management capabilities
+- Add automated testing
+- Improve accessibility
